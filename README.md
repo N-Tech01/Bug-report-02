@@ -28,8 +28,9 @@ Please review this report and ensure the security of your website. Kindly take n
 
 ## Screenshots
 I will attach the pictures in this repository.  
-(Screenshot 2024-12-12 101500)  
-(Screenshot 2024-12-12 101530)
+(Screenshot 2024-11-22 192029.png)
+(Screenshot 2024-11-22 192338.png)
+(Screenshot 2024-11-22 192351.png)
 
 ## Disclaimer
 This project is posted here for ethical purposes only. Any misuse of this code for illegal activities or malicious purposes is strictly prohibited, and I'm not responsible for any consequences arising from such actions. All content in this repository is protected under copyright law. Unauthorized republishing without proper authorization is prohibited.
